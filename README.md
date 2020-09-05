@@ -1,6 +1,6 @@
 <h1 align="center">
-    <img src="assets/screens/Screenshot_1599327426.png">
-    <img src="assets/screens/Screenshot_1599327550.png">
+    <img width=300 src="assets/screens/Screenshot_1599327426.png">
+    <img width=300 src="assets/screens/Screenshot_1599327550.png">
 </h1>
 
 ## 🐱‍💻 Sobre
