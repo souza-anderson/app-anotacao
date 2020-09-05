@@ -24,7 +24,7 @@ Esta é uma aplicação simples desenvolvida a partir do **Curso de Desenvolvime
 ```bash
 
     # Clonar o repositório
-    $ git clone https://github.com/souza-anderson/app-anotacao.git
+    $ git clone https://github.com/souza-anderson/app-anotacao
 
     # Entrar no diretório do projeto
     $ cd app-notes
